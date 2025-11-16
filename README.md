@@ -2,7 +2,7 @@
 
 1.🧑‍💼🤖 AI Career Conversations (RAG Chatbot)
 
-This project is an interactive AI career-guidance chatbot built using a free OpenRouter API key and deployed on HuggingFace Spaces. It allows users to chat with an AI version of your professional side, powered by Retrieval-Augmented Generation (RAG).
+This project is an interactive AI career-guidance chatbot built using a free OpenRouter API key and deployed on HuggingFace Spaces. It allows users to chat with an AI version of my professional side, powered by Retrieval-Augmented Generation (RAG).
 
 In this project, you’ll find:
 

@@ -6,7 +6,7 @@ This project is an interactive AI career-guidance chatbot built using a free Ope
 
 In this project, you’ll find:
 
-📚 A RAG pipeline that retrieves your professional background data
+📚 A RAG pipeline that retrieves my professional background data
 
 🤖 A chat interface that answers career-related questions using accurate context
 

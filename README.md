@@ -20,7 +20,8 @@ To use it go to this link:
 https://huggingface.co/spaces/CoolRaihan/career_convesations4
 
  This is what my project looks like:
- <img width="597" height="401" alt="image" src="https://github.com/user-attachments/assets/cd132f49-e894-493c-bd88-f16a71e4867e" />
+ <img width="597" height="401" alt="image" src="https://github.com/user-attachments/assets/cd132f49-e894-493c-bd88-f16a71e4867e" /> 
+ Link for video demo: https://youtu.be/So_qh2xCpQE
 
 
  2. RAG for Aerospace Engineering

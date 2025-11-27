@@ -40,3 +40,4 @@ This is what my project looks like:
 <img width="949" height="448" alt="image" src="https://github.com/user-attachments/assets/edc90386-3897-4e6e-ad01-85d11e3fe106" />
 To use it go to this link:
 https://huggingface.co/spaces/CoolRaihan/aerospace_engineering_ai_helper
+Link for demo video: https://youtu.be/QSM9JQ0q8Ss
